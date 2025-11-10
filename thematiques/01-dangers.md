@@ -12,5 +12,8 @@
 
 ## Pratique
 - Top10
-- CWE
-- Attaque récente
+- CWE : Présentation
+- Attaque récente : État des lieux
+
+## Actualité
+- [Amazon down... TJ RTS](https://www.rts.ch/info/monde/2025/article/panne-d-amazon-web-services-des-millions-d-utilisateurs-impactes-29034582.html)
